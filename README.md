@@ -1,5 +1,5 @@
 ## This bashscript clears pagecache, dentries, and inodes.
-### Also it will free your swap area in linux server.
+## Also it will free your swap area in linux server.
 
 ### use this instruction:
 
@@ -9,7 +9,7 @@ sudo apt install curl
 ```
 ### 2- Run this bash:
 ```
-
+curl https://raw.githubusercontent.com/tahamousavi8/deleteLinuxCashFile/main/deletecashfile.sh | bash
 ```
 
 ### 3- Reboot your server with this command:
